@@ -1,7 +1,7 @@
 export const SITE_NAME = "ธนมน โสภณธนวัฒน์";
 export const SITE_NAME_EN = "Thanamon Sophonthanawat";
 export const SITE_URL =
-  process.env.NEXT_PUBLIC_SITE_URL ?? "https://thanamon-sophonthanawat.netlify.app";
+  process.env.NEXT_PUBLIC_SITE_URL ?? "https://thanamon-official.netlify.app";
 
 export const KEYWORD = "ธนมน โสภณธนวัฒน์";
 

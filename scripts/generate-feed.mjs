@@ -2,7 +2,7 @@ import { writeFileSync } from "fs";
 import { join } from "path";
 
 const SITE_URL =
-  process.env.NEXT_PUBLIC_SITE_URL ?? "https://thanamon-sophonthanawat.netlify.app";
+  process.env.NEXT_PUBLIC_SITE_URL ?? "https://thanamon-official.netlify.app";
 
 const articles = [
   {
