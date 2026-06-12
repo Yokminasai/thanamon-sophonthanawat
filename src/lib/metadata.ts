@@ -78,5 +78,8 @@ export function createMetadata(options: PageMetaOptions = {}): Metadata {
         "max-snippet": -1,
       },
     },
+    verification: {
+      google: "zkmlydt5tD5UCjc7yMKPK17nz5OPCRm5r5EglKmANKY",
+    },
   };
 }
